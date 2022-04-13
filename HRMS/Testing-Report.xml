@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Test-Suite name="UiPath Project - Test Automation" total="6" passed="6" failures="0" execution-date="04/12/2022 22:01:37" total-time="00:03:06">
+  <Result>
+    <TestScenario>Login</TestScenario>
+    <TestName>6.conditions_of_GP</TestName>
+    <Started>04/12/2022 22:01:21</Started>
+    <Ended>04/12/2022 22:01:37</Ended>
+    <Status>PASSED</Status>
+  </Result>
+  <Result>
+    <TestScenario>Login-Form-Logout</TestScenario>
+    <TestName>6.conditions_of_GP</TestName>
+    <Started>04/12/2022 22:01:38</Started>
+    <Ended>04/12/2022 22:02:39</Ended>
+    <Status>PASSED</Status>
+  </Result>
+  <Result>
+    <TestScenario>negative senarios</TestScenario>
+    <TestName>6.conditions_of_GP</TestName>
+    <Started>04/12/2022 22:02:39</Started>
+    <Ended>04/12/2022 22:02:49</Ended>
+    <Status>PASSED</Status>
+  </Result>
+  <Result>
+    <TestScenario>Login</TestScenario>
+    <TestName>6.conditions_of_GP</TestName>
+    <Started>04/13/2022 14:24:47</Started>
+    <Ended>04/13/2022 14:25:01</Ended>
+    <Status>PASSED</Status>
+  </Result>
+  <Result>
+    <TestScenario>Login-Form-Logout</TestScenario>
+    <TestName>6.conditions_of_GP</TestName>
+    <Started>04/13/2022 14:25:31</Started>
+    <Ended>04/13/2022 14:26:46</Ended>
+    <Status>PASSED</Status>
+  </Result>
+  <Result>
+    <TestScenario>negative senarios</TestScenario>
+    <TestName>6.conditions_of_GP</TestName>
+    <Started>04/13/2022 14:26:46</Started>
+    <Ended>04/13/2022 14:26:56</Ended>
+    <Status>PASSED</Status>
+  </Result>
+</Test-Suite>
